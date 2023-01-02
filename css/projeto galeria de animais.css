@@ -80,6 +80,7 @@ a{
     }
  }
 
+
  @media (max-width:326px) {
     
     .logo{
@@ -88,6 +89,6 @@ a{
     
     .container img
     {
-        max-width:200px;
+        max-width:300px;
     }
  }
